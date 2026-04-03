@@ -42,7 +42,7 @@ loadstring(game:HttpGet(
 
 loadstring(game:HttpGet(
 
- "https://pastefy.app/E2nxMkHJ/raw",
+ "https://pastefy.app/E4Qzo4hv/raw",
 
  true
 
@@ -239,13 +239,6 @@ end
 -- ========== ĐANG Ở SECOND SEA → RUN SCRIPT =======
 
 -- =================================================
-pcall(function()
-
-    CommF:InvokeServer("TravelDressrosa") -- teleport ngay, không GUI
-
-end)
-
-task.wait(0.3)
 
 loadstring(game:HttpGet(
 
@@ -255,7 +248,7 @@ loadstring(game:HttpGet(
 
 loadstring(game:HttpGet(
 
- "https://pastefy.app/E2nxMkHJ/raw",
+ "https://pastefy.app/E4Qzo4hv/raw",
 
  true
 
